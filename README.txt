@@ -1,0 +1,1 @@
+MONO LINK mobil site ve gerçek marka logoları. GitHub ana dizinine index.html, mono-link-premium-urun.webp ve üç adet -logo.webp dosyasını yükleyin. Logolar kullanıcı ekran görüntülerinden kırpılmıştır, orijinal yüksek çözünürlüklü logo dosyaları değildir.
